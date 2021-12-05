@@ -1,6 +1,6 @@
 # apprenticeship-2021_09_28-edu-fundamentals
 2021-09-28 CEST
 
-That day we learnt about the basics of writing C++.
+That day we learnt about the basics of writing C++ in Visual Studio.
 
-This project was written with Visual Studio, I simply extracted the .cpp files.
+This project has been uploaded for archiving purposes.
