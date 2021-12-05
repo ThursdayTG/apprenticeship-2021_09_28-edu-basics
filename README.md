@@ -5,4 +5,4 @@ That day we learnt about the basics of writing C++ in Visual Studio. Here you ca
 
 Unfortunately, I have no recollection of how I ended up with version "charlie_", and can only assume that it came after version bravo.
 
-This project has been uploaded for archiving purposes.
+This project has been uploaded primarily for archiving purposes.
